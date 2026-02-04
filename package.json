@@ -45,7 +45,7 @@
     "autogypi": "^0.2.2",
     "extract-zip": "^1.6.7",
     "nbind": "^0.3.15",
-    "node-gyp": "^3.6.2",
+    "node-gyp": "^12.2.0",
     "rimraf": "^2.6.2"
   }
 }
